@@ -38,4 +38,9 @@ This project offers a comprehensive **stopword list** combining both Nepali and 
 
 ---
 
+<!--
+Title: Nenglish Stopwords for NLP
+Description: Stopwords list for Nepali-English code-mixed chat analysis used in WhatsApp, Viber, Messenger, and social platforms.
+Tags: NLP, Nepali, English, code-mixed, stopwords, chat analysis, WhatsApp, Messenger
+-->
 

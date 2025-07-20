@@ -1,9 +1,3 @@
-Absolutely, here's an updated version of the **README** with a **dedicated "Description" section** to clearly explain the purpose and motivation behind the project.
-
----
-
-### 📄 `README.md` with Description
-
 ```markdown
 # Nenglish Stopwords for Chat Analysis 🚀🇳🇵🇬🇧
 

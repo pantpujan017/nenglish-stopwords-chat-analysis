@@ -38,5 +38,4 @@ This project offers a comprehensive **stopword list** combining both Nepali and 
 
 ---
 
-## 📁 File Structure
 
